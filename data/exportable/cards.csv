@@ -1,0 +1,389 @@
+category,faction,flavor,info,position 1,position 2,position 3,name,group,strength
+,Neutral,"The beast rushed at them wildly, with fury in its eyes, immune to pain and any strikes the defenders could land. Nothing stood to stop it…",Toggle a Unit's Resilience.,Event,,,Adrenaline Rush,Bronze,
+,Scoia'tael,Better to die standing than to live on bent knee.,"When you have 5 or more Elf Allies, play this Unit from your Deck.",Ranged,,,Aelirenn,Silver,6
+,Neutral,"The druid Vaedermakar controls the elements. He soothes storms into silence, musters destructive hail, summons lightning to turn foes into ash. So I advise you well… treat him with utmost respect.",Play a Bronze or Silver Weather card from your Deck. Shuffle the others back into your Deck.,Event,,,Aeromancy,Silver,
+,Scoia'tael,Brokilon bleeds… and not even I can heal it.,"Deploy: You may Resurrect a Special card from your opponent's Graveyard. If you do, Weaken self by 4.",Melee,Ranged,Siege,Aglaïs,Gold,10
+,Nilfgaard,"Pledge your allegiance to our Emperor, Emhyr var Emreis… or die.","After 2 turns, at the start of your turn, play an Alba Pikeman from your Deck on the row.
+Deploy: Gain 2 Armor.",Melee,Ranged,Siege,Alba Pikeman,Bronze,5
+,Nilfgaard,Death and glory!,Deploy: Give this Unit a Shield.,Ranged,,,Alba Spearmen,Bronze,8
+,Nilfgaard,"A ball of fire? Why, naturally. Whatsoever Your Imperial Majesty desires.","Deploy: If neither player has passed, each player draws the top card from their Deck. Your opponent's card is Revealed.",Siege,,,Albrich,Silver,9
+,Nilfgaard,"Two ounces of calcium equum, one ounce of rubedo…",Deploy: Reveal a card.,Ranged,,,Alchemist,Bronze,8
+,Neutral,"A few of Alzur's monstrous creations roam the world still. Not least among them the horrid viy, who massacred its mage-creator and destroyed half of Maribor before fleeing into Riverdell's gloomy woodland.",Boost one of the Highest Bronze or Silver Units in your Deck by 2 and play it.,Event,,,Alzur's Double–Cross,Silver,
+,Neutral,We stand not the slightest chance of incanting a spell so complex as Alzur's Thunder. It is claimed Alzur had a voice like a hunting horn and the diction of a master orator.,Damage a Unit by 7.,Event,,,Alzur's Thunder,Bronze,
+,Nilfgaard,"A spy? No, that's saying far too much. I consider myself more of an observer.",Deploy: Boost an Ally by 10.,Melee,Ranged,Siege,Ambassador,Bronze,2
+,Monster,Many primal fears lurk in the hearts of men. The fear of the mist is well–founded…,"Every turn, at the start of your turn, Boost self by 1 if Fog is anywhere on the Board.",Melee,Ranged,Siege,Ancient Foglet,Bronze,7
+,Monster,Ugly – nature's way of saying stay away.,Deploy: Play all Arachasae from your Deck.,Ranged,,,Arachas,Bronze,3
+,Monster,"Like a cross between a crab, a spider… and a mountain.","Whenever an Ally Consumes a card, Spawn an Arachas and Damage self by 1 (ignoring Armor).
+Deploy: Gain 2 Armor.",Siege,,,Arachas Behemoth,Bronze,6
+,Neutral,"If substance makes contact with eyes, rinse immediately with cold water, then commence drawing up will.",Damage 3 adjacent Units by 4.,Event,,,Arachas Venom,Bronze,
+,Monster,"It's a griffin, just more… griffiny.",Deploy: Clear Weather from the row on your side.,Melee,Ranged,Siege,Archgriffin,Bronze,7
+,Northern Realms,"The adepts' every whim is catered to - they live like princesses at Aretuza. And in turn half the city lives off servicing them: seamstresses, milliners, confectioners, delivery boys…",Deploy: Play a random Bronze Weather card from your Deck.,Siege,,,Aretuza Adept,Bronze,4
+,Nilfgaard,How much is a human life worth?,Lock and Destroy an Enemy.,Event,,,Assassination,Gold,
+,Nilfgaard,"Nilfgaardian mages do have a choice: servile submission, or the gallows.",Deploy: Shuffle up to 2 cards from either Graveyard into that player's Deck.,Siege,,,Assire var Anahid,Silver,10
+,Nilfgaard,Letho's got a plan… what could go wrong?,"Deploy: Toggle 2 Units' Lock. If Enemies, Damage them by 1 as well.",Ranged,,,Auckes,Silver,4
+,Neutral,You humans have… unusual tastes.,"Deploy: If neither player has passed, both players draw the top 2 cards from their Deck.",Melee,Ranged,Siege,Avallac'h,Gold,8
+,Northern Realms,What crossbows want to be when they grow up.,"Deploy: Damage an Enemy and up to 3 other random Enemies with the same Power by 1.
+Fresh Crew: Repeat the Deploy ability.",Melee,Ranged,Siege,Ballista,Bronze,6
+,Scoia'tael,"Our mead smells rotten to ye, do it? Easy to fix – I'll break yer nose!",Deploy: Play a random Bronze or Silver Dwarf from your Deck and Boost it by 3.,Siege,,,Barclay Els,Silver,2
+,Neutral,"Gaze long into the abyss, and the abyss will gaze back into you.",Swap the Power of the Highest and Lowest Unit.,Event,,,Bekker's Twisted Mirror,Silver,
+,Skellige,"Now finish your soup, or a berserker'll come and swallow ye whole.","Deploy: Strengthen self by 1 for each Damaged Ally (including Golds), then Damage self by 1.",Melee,,,Berserker Marauder,Bronze,8
+,Skellige,Skellige must have a strong king. No matter what it takes.,"Deploy: Move a Unit from your opponent's Graveyard to yours.
+Every turn, at the start of your turn, Damage self by 1 and Units adjacent to this Unit by 2.",Melee,Ranged,Siege,Birna Bran,Gold,5
+,Neutral,Best thing about frost? Bodies of the fallen don't rot so quickly.,"Apply Frost to a row on your opponent's side.
+Frost: Every turn, at the start of your turn, Damage one of the Lowest Units on the row by 2.",Melee,Ranged,Siege,Biting Frost,Bronze,
+,Nilfgaard,I aim for the knees. Always.,"Deploy: Damage an Enemy by 3. If it was Boosted, Damage it by 5 instead.",Ranged,,,Black Infantry Arbalest,Bronze,5
+,Neutral,First we ran into a bear… things just got worse from there.,"Destroy an Ally.
+Spawn a Bear.",Event,,,Bloodcurdling Roar,Bronze,
+,Northern Realms,"I've not been a good father, I know, but… perhaps it's not too late.","If this Unit is in your Deck at the end of the Round, place it on top.
+Whenever an Enemy is Destroyed during a Round while this Unit is in your Deck, Boost it by 1.",Melee,Ranged,Siege,Bloody Baron,Gold,6
+,Scoia'tael,"By the time we'd heard them, it was already too late…","Whenever this Unit is moved, Boost it by 2.
+Deploy: Play all Blue Mountain Commandos from your Deck.",Melee,Ranged,Siege,Blue Mountain Commando,Bronze,3
+,Northern Realms,"I'd do anything for Temeria. Mostly though, I kill for her.","Whenever a different Ally with the same Power as this Unit is played, play this Unit from your Deck (1 copy max) and place it on that Ally's row.
+Whenever you complete a Blue Stripes Commando Trio, create 1 base copy of a Blue Stripes Commando on the bottom of your Deck.",Melee,Ranged,Siege,Blue Stripes Commando,Bronze,3
+,Northern Realms,Blue Stripes and Scoia'tael are similar in one regard – hatred fuels both.,"Deploy: Gain 2 Armor.
+Deploy: Clear Weather from the row on your side.
+Crewmen 1.",Melee,Ranged,Siege,Blue Stripes Scout,Bronze,6
+,Skellige,I'm near ready to puke from boredom.,"Veteran 1.
+Deploy: Spawn a Spectral Whale on your opponent's side.",Melee,,,Blueboy Lugos,Silver,6
+,Northern Realms,Admit your mistakes and bury them proper – else they'll come back to haunt you.,"Deploy: Boost all Lubberkins in your Hand, Deck and Graveyard by 5.
+Deathwish: Play a Lubberkin from your Deck.",Melee,,,Botchling,Silver,5
+,Scoia'tael,Mona…? No… no. I'm Braenn. A daughter of Brokilon.,Deploy: Damage an Enemy by this Unit's Power.,Ranged,,,Braenn,Silver,5
+,Scoia'tael,That doddery dolt? Ye cannae even tell if he's alive or stuffed!,"Spawn Brouver Hoog
+Deploy: Play a Silver Unit from your Deck. Shuffle the others back.",Event,,,Brouver Hoog,Leader,4
+,Nilfgaard,His eyes flashed under his winged helmet. Fire gleamed from his sword's blade.,"Deploy: If playing as Nilfgaard, trigger your Leader's Deploy ability.",Melee,Ranged,Siege,Cahir,Gold,4
+,Nilfgaard,Men require constant alluring. Mystique and refinement do the job quite well.,"Deploy: Draw the top card from your Deck. Keep it, or place it at the bottom of your Deck and draw the new top card.",Melee,Ranged,Siege,Cantarella,Silver,10
+,Monster,A favorite son who chose a life of villainy.,Deploy: Move 3 Enemies to this Unit's row on your opponent's side and apply Frost to that row on that side only.,Melee,Ranged,Siege,Caranthir,Gold,9
+,Monster,There are more things in heaven and earth than all the world's philosophers have dreamt.,Deploy: Resurrect a Unit from your opponent's Graveyard.,Melee,Ranged,Siege,Caretaker,Gold,4
+,Nilfgaard,"Your Imperial Highness… blurted out the seneschal, whose presence until now had been thoroughly ignored. I beg your pardon, but Cahir… My son...",Deploy: Move 2 Bronze Spying Enemies to your side.,Melee,,,Ceallach,Silver,8
+,Monster,Common harpies feed on carrion. Celaeno harpies… they feed on dreams.,Deploy: Spawn 2 Harpy Eggs to the left of this Unit.,Melee,Ranged,Siege,Celaeno Harpy,Bronze,3
+,Skellige,They call me Sparrowhawk. Know why? Because I eat rats like you for breakfast.,"After 4 Units are Resurrected on your side while this Unit is in the Graveyard, Resurrect it.",Melee,Ranged,Siege,Cerys,Gold,6
+,Skellige,"He'll not reveal his name till he's defeated. He's a troll errant, see?","Every turn, at the start of your turn, Strengthen this Unit by 2 if it is the only Unit on the row.",Melee,Ranged,Siege,Champion of Champions,Silver,5
+,Monster,A member of the Bovine Defense Force. Semper fi!,"Deploy, Brave: Strengthen self by 4.",Melee,Ranged,Siege,Chort,Bronze,6
+,Scoia'tael,"The path to freedom is paved in blood, not ink.",Deploy: Toggle a Unit's Lock and move it to this row on its side.,Melee,Ranged,Siege,Ciaran,Silver,8
+,Neutral,"I go wherever I please, whenever I please.","At the end of the Round, return this Unit to your Hand if you lost.",Melee,Ranged,Siege,Ciri,Gold,5
+,Neutral,Know when fairy tales cease to be tales? When people start believing them.,"When this Unit enters the Graveyard, Strengthen it by 3 and shuffle it back into your Deck.",Melee,Ranged,Siege,Ciri: Dash,Gold,9
+,Skellige,"So ye can hit a movin' target at two hundred paces? Me, too. In a storm.","Veteran 1.
+Deploy: Damage 3 Units by 1.",Siege,,,Clan Brokvar Archer,Bronze,5
+,Skellige,"Better believe we can hunt. Thing is, not much game on Spikeroog…","Whenever a Unit adjacent to this Unit is Damaged, Strengthen self by 1.
+Deploy: Damage a Unit by 3.",Melee,Ranged,Siege,Clan Brokvar Hunter,Bronze,5
+,Skellige,Can see the fear in their eyes. Fear o' me… fear o' Clan Dimun!,"Veteran 1.
+Deploy: Discard all copies of this Unit from your Deck.",Melee,Ranged,Siege,Clan Dimun Pirate,Bronze,6
+,Skellige,"Haul together, hoist the colors high!","Veteran 1.
+Whenever a Unit is Discarded to your Graveyard, Boost self by 1 while in your Hand, Deck or on your side of the Board.",Melee,Ranged,Siege,Clan Dimun Pirate Captain,Bronze,5
+,Skellige,They'll shatter on our shields like waves on a craggy shore.,"Deploy: Damage a Unit by 2. If it was already Damaged, play a Clan Drummond Shieldmaiden from your Deck.",Ranged,,,Clan Drummond Shieldmaiden,Bronze,3
+,Skellige,The deeds of Clan Heymaey will go down in history.,"Veteran 1.
+Deploy: Boost 3 Units to the left by 3, 2 and 1 respectively.",Melee,Ranged,Siege,Clan Heymaey Skald,Bronze,4
+,Skellige,Ye're in for a poundin'.,"Veteran 1.
+Deploy: Heal 3 Units to the left.",Melee,Ranged,Siege,Clan Tordarroch Armorsmith,Bronze,5
+,Skellige,Remember me words – a good shield can save yer life.,"Veteran 1.
+Deploy: Strengthen an Ally by 2.",Siege,,,Clan Tordarroch Shieldsmith,Bronze,5
+,Skellige,Swords are for wenches. Get yourself an axe.,"Whenever an Enemy is Damaged, Boost self by 1.
+Deploy: Gain 2 Armor.",Melee,Ranged,Siege,Clan Tuirseach Axeman,Bronze,3
+,Skellige,"Friends we show heart, foes we show our axe. Remember that.","Veteran 1.
+Whenever this Unit enters the Graveyard, Strengthen it by 3.",Melee,,,Clan Tuirseach Skirmishers,Bronze,6
+,Skellige,"We are An Craite! What others buy with gold, we buy with our lifeblood.","Veteran 1.
+Whenever this Unit is Discarded, Resurrect it immediately.",Melee,,,Clan an Craite Raider,Bronze,4
+,Skellige,"Every man, woman and child in Skellige can split a foe with an axe. Only a select few can split enemy ears with a rage-filled cry.","Veteran 1.
+Deploy: Boost 3 Damaged Units to the left by half their Power (rounding down).",Melee,Ranged,Siege,Clan an Craite Warcrier,Bronze,7
+,Skellige,Our clan's bards will sing of my deeds long after you're dead and forgotten!,"Veteran 1.
+Deploy: Damage self by 1.",Melee,,,Clan an Craite Warrior,Bronze,9
+,Neutral,Everyone wantin' to trade in Novigrad's got a clear choice - agree terms with Cleaver or kiss their knees farewell.,Deploy: Toggle a Unit's Lock.,Melee,,,Cleaver,Silver,6
+,Nilfgaard,Want irrefutable proof of civilization's advance? Look at war. Man gets better at killing with each one.,Deploy: Toggle a Unit's Resilience.,Siege,,,Combat Engineer,Bronze,2
+,Neutral,"Plus one to morale, minus one to hearing.",Boost 5 adjacent Units by 4.,Event,,,Commander's Horn,Silver,
+,Scoia'tael,"Many nonhumans, fed up with the racism and xenophobia they encounter in the cities, decide to join the Scoia'tael.","Whenever you Mulligan a card, Damage a random Enemy by 2.",Melee,,,Commando Neophyte,Bronze,7
+,Skellige,"Her true name's Astrid Lyttneyd Ásgeirrfinnbjornsdottir, but that never fit on any forms.",Deploy: Pick a Unit and Damage all Units on its row by half their Power (rounding up and ignoring Armor).,Melee,Ranged,Siege,Coral,Gold,5
+,Skellige,"Nilfgaardians call 'im Tirth ys Muire, the Wild Boar o' the Sea. Use 'im to scare their kiddies!","Spawn Crach an Craite
+Deploy: Play the Highest Loyal Bronze or Silver Unit in your Deck, Strengthen it by 3 and Damage it by 1.",Event,,,Crach an Craite,Leader,4
+,Monster,"We'll cut you up, boy. A fine broth you'll make.",Deploy: Play Whispess and Weavess from your Deck.,Siege,,,Crone: Brewess,Silver,8
+,Monster,I sense your pain. I see your fear.,Deploy: Play Brewess and Whispess from your Deck.,Siege,,,Crone: Weavess,Silver,6
+,Monster,I'd be your best – and last.,Deploy: Play Brewess and Weavess from your Deck.,Siege,,,Crone: Whispess,Silver,6
+,Nilfgaard,Cynthia's talents can be deadly. She needs a tight leash.,Deploy: Reveal one of the Highest Units in your opponent's Hand (including Golds) and Boost self by its Power.,Ranged,,,Cynthia,Silver,5
+,Neutral,"One of four bosses who control the city's underworld - the others being Sigi Reuven, Carlo The Cleaver Varese and the King of Beggars.",Deploy: Weaken a Unit by 3 or Destroy an Ambush Unit.,Siege,,,Cyprian Wiley,Silver,7
+,Nilfgaard,"Learned a lot at Braibant Military Academy. How to scrub potatoes, for instance.","Whenever this Unit is Revealed, play it and draw the top card from your Deck.",Melee,,,Daerlan Foot Soldiers,Bronze,4
+,Monster,"That is not dead which can eternal lie, and with strange aeons even death may die.","Spawn Dagon.
+Deploy: Spawn Biting Frost, Impenetrable Fog or Torrential Rain.",Event,,,Dagon,Leader,6
+,Northern Realms,"Dandelion, you're a cynic, a lecher, a liar – and my best friend.","Deploy: Boost up to 3 Bronze or Silver Units in your Deck by 3, then shuffle your Deck.",Melee,Ranged,Siege,Dandelion,Gold,8
+,Neutral,"When you run out of peasants, decoys also make decent arrow fodder.","Return an Ally to your Hand, Boost it by 3 and play it.",Event,,,Decoy,Silver,
+,Scoia'tael,"I know how to execute orders, so take your advice somewhere else.","Deploy: Strengthen all other Bronze and Silver Dwarves in your Deck, Hand and on your side of the Board by 1.",Melee,,,Dennis Cranmer,Silver,8
+,Northern Realms,"I once made a prisoner vomit his own entrails… Ah, good times…","Deploy: Spawn Torrential Rain, Clear Skies or Alzur's Thunder.",Siege,,,Dethmold,Silver,3
+,Northern Realms,Really believe you can dupe me with that tale you just pulled from your arse?,Deploy: Play the top 2 cards in your Deck.,Melee,Ranged,Siege,Dijkstra,Gold,3
+,Neutral,"An important part of every Witch Hunter's kit. In one muted flash, it turns the most powerful sorcerer into pork jelly ripe for cutting.","Choose 3 adjacent Units (can be Golds) and Reset them. If any are Gold, Demote them first.",Event,,,Dimeritium Bomb,Silver,
+,Neutral,"The mage's arms were twisted and bound behind his back. The Redanians gave the fetters a good shake. Terranova cried out, lurched, bent backwards, bowed forward, then retched and groaned. It was clear of what his manacles were made.","Choose a Unit (can be Gold) and toggle its Lock. If it is Gold, Demote it first.",Event,,,Dimeritium Shackles,Bronze,
+,Skellige,"When a warrant says dead or alive, most bounty hunters'll just kill you. Not me. Should I catch you, you'll hang, and I'll tickle your feet as you expire.","Veteran 1.
+Deploy: Damage 3 Allies by 1 and Strengthen self by 1 for each.",Melee,Ranged,Siege,Djenge Frett,Silver,8
+,Scoia'tael,"Take another step, dh'oine. You'd look better with an arrow between your eyes.",Deploy: Damage Enemies by 3 and then 1.,Ranged,,,Dol Blathanna Archer,Bronze,5
+,Scoia'tael,"You might manage to hide from them, but once spotted, don't bother trying to run.","Every time this Unit is moved, Damage a random Enemy by 2.
+Deploy: Damage an Enemy by 2.",Ranged,,,Dol Blathanna Marksman,Bronze,6
+,Scoia'tael,"As long as we stand, no human foot shall trample Dol Blathanna's meadows.","Whenever you play a Special card, Boost this Unit by 1 while in your Hand, Deck or on your side of the Board.",Melee,Ranged,Siege,Dol Blathanna Protector,Bronze,2
+,Scoia'tael,"They track like hounds, run like deer and kill like heartless demons.",Deploy: Spawn a Fireball Trap on an opposing row.,Ranged,,,Dol Blathanna Trapper,Bronze,6
+,Skellige,I've gathered all the jarls together. Now make your case.,"Veteran 1.
+Deploy: Toggle a Unit's Lock. Discard a random Bronze card from your opponent's Deck to your Graveyard.",Ranged,,,Donar an Hindar,Silver,6
+,Skellige,Hear ye now the tale of the heroic deeds of Clan an Craite.,Deploy: Strengthen up to 2 Units in your Graveyard by 3.,Siege,,,Draig Bon–Dhu,Silver,4
+,Monster,Some men cannot admit defeat. Some keep fighting from beyond the grave.,Deploy: Damage a random Enemy by 1 (ignoring Armor). Repeat 6 times.,Melee,Ranged,Siege,Draug,Gold,7
+,Neutral,"Vicovaro scholars have determined that, in the absence of imperial aid, drought-stricken provinces lose half their population, two-thirds of their livestock and all their will to rebel.","Apply Drought to all rows on your opponent's side.
+Drought: Every turn, at the start of your turn, Damage one of the Lowest Units on the row by 2.",Event,,,Drought,Gold,
+,Monster,"Though the witchman lusts for gold, for the smiting of a drowner thou shalt give him but a silver penny, or three halfpence, at most.",Deploy: Move a Unit to this row on its side.,Melee,Ranged,Siege,Drowner,Bronze,8
+,Neutral,"A mimic, among the many other names for his sort: changelings, doublings, vexlings… or dopplers.",Deploy: Choose an Enemy and copy its Power.,Melee,Ranged,Siege,Dudu,Silver,1
+,Northern Realms,Always wondered – how the blazes do those lads handle nature's call…?,Deploy: Remove Armor from 2 Units and Boost self by the amount of Armor removed.,Siege,,,Dun Banner Heavy Cavalry,Bronze,4
+,Northern Realms,"Stay calm, everyone. And be alert. The true owners of those cloaks and beaver–skin caps might be elsewhere.","If at the start of your turn you have not passed and are losing the Round by more than 20 Power, play this Unit from your Deck.",Ranged,,,Dun Banner Light Cavalry,Bronze,4
+,Scoia'tael,The key's mixin' pleasure an' business – like smackin' foes and gettin' coin for it.,"Deploy: Move a Unit on another row to this row on its side. If it's an Ally, Boost it by 3.",Melee,Ranged,Siege,Dwarven Mercenary,Bronze,6
+,Scoia'tael,Worked a pickaxe all me life. Battleaxe won't be any trouble.,"Deploy: Damage an Enemy by 3. If the Unit was not Destroyed, Boost self by 2.",Siege,,,Dwarven Skirmisher,Bronze,5
+,Monster,How do you fight an earth elemental? You don't. You run. Fast as you can.,"Deploy: Give this Unit a Shield.
+Deathwish: Spawn 2 Lesser Earth Elementals at the end of the row.",Melee,,,Earth Elemental,Bronze,6
+,Scoia'tael,"The dryad queen has eyes of molten silver, and a heart of cold–forged steel.","Spawn Eithné
+Deploy: Resurrect a Special card.",Event,,,Eithné,Leader,5
+,Monster,Who would think that overgrown bats would have a taste for gaudy jewelry?,"Deploy: Gain Resilience.
+Deploy: Consume an Ally.",Melee,Ranged,Siege,Ekimmara,Bronze,3
+,Scoia'tael,Love justifies madness in any of its forms.,Deploy: Destroy an Ally and Damage an Enemy by the Destroyed Ally's Power.,Melee,,,Ele'yas,Silver,9
+,Scoia'tael,"I spit on Scoia'tael ideals, but not on their coin.",Deploy: Draw the top 2 Bronze Special cards in your Deck. Play 1 and shuffle the other back.,Melee,Ranged,Siege,Elven Mercenary,Bronze,2
+,Scoia'tael,"You mean to say the she–elf danced amidst the fray? Have you lost your mind, corporal?!","Whenever you Mulligan this Unit, play it from your Deck immediately.",Melee,,,Elven Wardancer,Bronze,3
+,Nilfgaard,They do not call me the Patient. Take care they do not call you the Headless.,"Spawn Emhyr var Emreis
+Deploy: Return an Ally to your Hand, then play a card from your Hand (can be Gold).",Event,,,Emhyr var Emreis,Leader,6
+,Nilfgaard,But… but there's no justice in it! One does not kill the messenger!,Deploy: Draw the top 2 Bronze Units (not including Emissaries) from your Deck. Play 1 and shuffle the other back.,Melee,Ranged,Siege,Emissary,Bronze,2
+,Neutral,"Epidemics respect no persons, no borders.",Destroy all the Lowest Units.,Event,,,Epidemic,Bronze,
+,Monster,Have some dignity. You know how this will end.,"Spawn Eredin.
+Deploy: Spawn a Bronze Wild Hunt Unit.",Event,,,Eredin,Leader,5
+,Skellige,Only the ignorant dismiss the importance of myths.,"Deploy: Draw the top 2 cards from your Deck, then Discard 2 cards (can be Golds) from your Hand.",Melee,Ranged,Siege,Ermion,Gold,7
+,Neutral,"I'm a simple witcher, Wolf. Don't fight dragons, don't fraternize with kings and don't sleep with sorceresses…",Deploy: Play Vesemir and Lambert from your Deck.,Melee,,,Eskel,Silver,5
+,Nilfgaard,"Here she comes, he thought, our imperial interest. A mock-princess, a mock-queen for Cintra. A mock-ruler for the mouth of the Yarra, future lifeblood of the empire.","If this Unit is Spying at the start of your turn, Boost it by 1. If it is Spying when your opponent passes, move it to the opposite side.
+Deploy: When you play this Unit on your side, Strengthen it by 3.",Melee,Ranged,Siege,Fake Ciri,Silver,6
+,Northern Realms,"Stitch red to red, white to white, and everything will be all right.","Deploy: Choose a different Bronze Ally and shuffle it back into your Deck, then play a random Bronze Unit from your Deck.",Siege,,,Field Medic,Bronze,4
+,Monster,"A fiend looks a bit like a deer. An enormous, evil deer.","Deploy: Toggle a Unit's Lock. If it's an Enemy, Damage it by half its Power (rounding up and ignoring Armor).",Melee,,,Fiend,Silver,5
+,Monster,Can't stand the heat? Then you don't stand a chance.,Deploy: Spawn 3 Lesser Fire Elementals.,Siege,,,Fire Elemental,Silver,7
+,Nilfgaard,"Not the best for taking cities, but great for razing them to the ground.","Whenever this Unit is Revealed, Damage a random Enemy by 3.
+Deploy: Damage an Enemy by 3.",Siege,,,Fire Scorpion,Bronze,6
+,Neutral,"The sun's shinin', Dromle! The sun's shinin'! Maybe there's hope after all…",Spawn Clear Skies or Rally.,Event,,,First Light,Bronze,
+,Monster,Fog creeps on little cat feet. Foglets creep over the bodies of their victims.,"Whenever you apply Fog to an opposing row, play this Unit from your Deck or Resurrect it on that row on your side.
+When all Fog has been cleared from the Board, Destroy this Unit.",Melee,Ranged,Siege,Foglet,Bronze,2
+,Northern Realms,Don't need advisors and their schemes. I place my trust in my soldiers' blades.,"Spawn Foltest
+Deploy: Boost all Loyal Bronze and Silver Units in your Hand and Deck by 1.",Event,,,Foltest,Leader,5
+,Scoia'tael,"To live in peace, we first must kill. This is human oppression's cruel finale.","Spawn Francesca
+Deploy: Mulligan up to 3 cards.",Event,,,Francesca,Leader,6
+,Monster,"”What have I done?” the mage cried out, frightened of his own creation.",Deploy: Move a Unit on another row on this side to this row. Draw the top card from your Deck.,Melee,Ranged,Siege,Frightener,Silver,10
+,Nilfgaard,Magic is the highest good. It transcends all borders and divisions.,"Deploy: If Spying, set own base Power to 1.
+Deploy: Set the Power of the Unit on the right to that of the Unit on the left.",Melee,Ranged,Siege,Fringilla Vigo,Silver,6
+,Neutral,He always grants exactly what you wish for. That's the problem.,Deploy: Guess whether a random Bronze or Silver Unit from your opponent's Deck is Higher or Lower than 5. Success: Play any card from your Deck. Shuffle the others back. Failure: Your opponent draws the top Bronze or Silver card from their Deck. Tie: Both players draw the top Bronze or Silver card from their Deck.,Melee,Ranged,Siege,Gaunter O'Dimm,Gold,5
+,Monster,"Paintings should convey emotion, not words.",Deploy: Draw the top Gold card and top Silver card from your Deck. Play one and return the other to the top of your Deck.,Melee,Ranged,Siege,Ge'els,Gold,2
+,Neutral,"If that's what it takes to save the world, it's better to let that world die.","Deploy, Brave: Strengthen self by 3.",Melee,Ranged,Siege,Geralt,Gold,10
+,Neutral,A blast of concentrated energy that pummels everything in its path. Great for when you forget your keys.,Deploy: Push 5 adjacent Enemies to the row above them and Damage them by 2.,Melee,Ranged,Siege,Geralt: Aard,Gold,8
+,Neutral,A twist of a witcher's fingers can light a lamp… or incinerate a foe.,Deploy: Destroy all the Highest Units on the opposite row if that row totals 20 or more Power.,Melee,Ranged,Siege,Geralt: Igni,Gold,4
+,Monster,If ghouls are part of the Circle of Life… then it's one vicious circle.,Deploy: Consume a random Unit from either Graveyard.,Melee,,,Ghoul,Bronze,4
+,Monster,"Big, bad, ugly. Squats in the sewers.","Deploy: Consume a card in your Hand, then draw the top card from your Deck.",Melee,Ranged,Siege,Giant Toad,Silver,5
+,Monster,Their long tongues're for slurping marrow – and whipping prey.,"After 1 turn, at the start of your turn, Consume all Units in your Graveyard, but only Boost self by 1 for each.",Melee,Ranged,Siege,Grave Hag,Silver,2
+,Skellige,"An archdruid, a master of alchemy, and the grumpiest old fart in the Isles.","Deploy: Spawn Impenetrable Fog, Clear Skies or Bloodcurdling Roar.",Siege,,,Gremist,Silver,3
+,Monster,"Griffins like to toy with their prey. Eat 'em alive, piece by piece.",Deploy: Move a card from one Graveyard to the other.,Siege,,,Griffin,Bronze,8
+,Skellige,No one knows how he got his nickname – no one's dared to ask.,"Spawn Harald the Cripple
+Deploy: Damage a Unit by 5. If this Destroys it, repeat this ability with Damage Power reduced by 1.",Event,,,Harald the Cripple,Leader,3
+,Monster,"There are many species of harpy, and all are kleptomaniacs.",Deploy: Trigger the Deathwish of Units adjacent to this Unit.,Melee,Ranged,Siege,Harpy,Bronze,3
+,Scoia'tael,"Sure, I'll patch you up. Gonna cost you though.",Deploy: Boost 2 Units to the right by 3.,Melee,Ranged,Siege,Hawker Healer,Bronze,4
+,Scoia'tael,I fight for whoever's paying the best. Or whoever's easiest to rob.,"Whenever an Enemy appears, Boost self by 1.",Ranged,,,Hawker Smuggler,Bronze,4
+,Scoia'tael,"Elf, dwarf, makes no difference – long as they've got coin.",Deploy: Boost a Unit in your Hand by 3.,Siege,,,Hawker Support,Bronze,6
+,Northern Realms,"King Henselt did not look like a thief, but, with all due respect, that's really what he was.","Spawn Henselt
+Deploy: Choose a Bronze Ally. Play all copies of it from your Deck.",Event,,,Henselt,Leader,2
+,Skellige,"Instead of mournin' the fallen, let's drink to their memory!",Deploy: Spawn the Lord of Undvik on the leftmost side of the opposite row.,Melee,Ranged,Siege,Hjalmar,Gold,13
+,Skellige,Now let's drink to Emperor of Nilfgaard – may he die of somethin' hideous!,"Veteran 1.
+Deploy: Damage a Unit by 5. If it was Destroyed, Strengthen one of the Highest Units in your Graveyard by 3.",Siege,,,Holger Blackhand,Silver,5
+,Monster,Fled one time in my life. From the Ice Giant. And I'm not a bit ashamed.,"If Frost is anywhere on the Board, Boost self by 5. When the last Frost is cleared, Damage self by 5.",Melee,Ranged,Siege,Ice Giant,Bronze,5
+,Scoia'tael,I am a Sage. My power lies in possessing knowledge. Not sharing it.,"Deploy: Spawn Impenetrable Fog, Clear Skies or Quen Sign.",Siege,,,Ida Emean,Silver,4
+,Monster,Ladd nahw! Kill them! Litter the earth with their entrails!,"Deploy: Damage an Enemy by 4. If the Enemy is under Frost, Damage it by 8 instead.",Melee,Ranged,Siege,Imlerith,Gold,8
+,Neutral,The witcher moved with unnatural speed. Too fast for the human eye to register.,Add 3 Armor to 3 adjacent Units and Boost them by 3.,Event,,,Immune Boost,Bronze,
+,Neutral,A good commander's dream… and a bad one's horror.,"Apply Fog to a row on your opponent's side.
+Fog: Every turn, at the start of your turn, Damage the Highest Unit on the row by 2.",Melee,Ranged,Siege,Impenetrable Fog,Bronze,
+,Nilfgaard,The Impera Brigade never surrenders. Ever.,"Whenever you play a Spying Unit (including Golds), Boost self by 2.
+Deploy: Boost self by 2 for each Spying Enemy (including Golds).",Melee,,,Impera Brigade,Bronze,6
+,Nilfgaard,Members of the emperor's fanatic body guard fight to the bitter end.,"Deploy: Look at the top card in your Deck. If it's Bronze, gain 2 Armor. If it's Silver, Boost self by 1. If it's Gold, Promote self.",Ranged,,,Impera Enforcers,Bronze,8
+,Nilfgaard,"The most powerful of Nilfgaard's mages have mastered the art of creating golems. On a few occasions, they've even managed to make them fight for the imperial cause…",Orders: Play this Unit from your Deck.,Melee,,,Imperial Golem,Bronze,2
+,Scoia'tael,"King or beggar, what's the difference? One dh'oine less.","Whenever an Enemy moves to a different row, Damage it by 2.
+Deploy: Damage an Enemy by 4.",Melee,Ranged,Siege,Iorveth,Gold,6
+,Neutral,"I remember so little… Yet when I think of my rose, I begin to recall what was.",Deathwish: Boost all Units on the other side of the Board by 3.,Melee,Ranged,Siege,Iris,Silver,3
+,Scoia'tael,It dawns on them once they notice my scar: a realization of imminent death.,Play a Bronze or Silver Ambush card from your Deck.,Melee,Ranged,Siege,Isengrim,Gold,7
+,Scoia'tael,Famed for constantly prophesying the world's doom. Not much fun at parties.,"Deploy: Play a Bronze Special card from your Deck, then Spawn a copy of it. Shuffle the others back.",Melee,Ranged,Siege,Ithlinne,Gold,5
+,Nilfgaard,To describe the manner in which Duke de Wett led the Verden Group as incompetent would be far too kind.,Deploy: Play the top Loyal Bronze or Silver Unit in your Deck and Boost it by 10.,Melee,Ranged,Siege,Joachim de Wett,Silver,5
+,Nilfgaard,A sword is but one of many tools at a ruler's disposal.,"Spawn John Calveit
+Deploy: Look at the top 3 Bronze or Silver cards in your Deck. Play 1. The others remain on top.",Event,,,John Calveit,Leader,3
+,Northern Realms,"That square should bear the names of my soldiers, of the dead. Not mine.",Deploy: Force all Northern Realms Machine Allies to Damage a random Enemy by 2.,Melee,Ranged,Siege,John Natalis,Gold,8
+,Neutral,Life without savoring the sound of surreptitious shananacking is like licking snails through a cloth.,"Deploy: Discard a card from your Hand (can be Gold), then create a copy in your Hand of a card of the same color in your opponent's Deck.",Siege,,,Johnny,Silver,7
+,Monster,"Skellige legend claims the mighty and terrible Jotunn, King of Giants, reigned over the isles in ancient times. He was slain by Hemdall, but with his dying breath he vowed to return for Ragh nar Roog.",Deploy: Move 3 adjacent Enemies to this Unit's row on their side and Damage them by 2.,Melee,Ranged,Siege,Jotunn,Silver,6
+,Skellige,Some call her the Iron Maiden.,"Veteran 1.
+Deploy: Damage self by 1.",Melee,,,Jutta an Dimun,Silver,12
+,Northern Realms,"Forward, you sorry sods! Forward or you'll see the Nilfgaardians are the least of your worries!","Deploy: Boost by 1 this Unit and all Bronze Loyal Units with the same Power in your Hand, Deck or on your side of the Board.
+Crewmen 1.",Melee,Ranged,Siege,Kaedweni Sergeant,Bronze,3
+,Northern Realms,I never miss twice.,"Deploy: Return a Machine Ally to your Hand and immediately play it again.
+Crewmen 1.",Melee,Ranged,Siege,Kaedweni Siege Platform,Bronze,3
+,Northern Realms,You gotta recalibrate the arm by five degrees.,"Whenever an Ally appears, Boost it by 1. If it's a Machine, Boost it by 1 and add 1 Armor.
+Crewmen 1.",Melee,Ranged,Siege,Kaedweni Siege Support,Bronze,4
+,Skellige,"When the time comes, the cockerel Kambi shall crow and awaken Hemdall.","After 3 turns, at the start of your turn, Spawn Hemdall.",Melee,Ranged,Siege,Kambi,Gold,1
+,Monster,Drinking the blood of the Continent since the Conjunction.,Deploy: Consume a Unit from either Graveyard.,Melee,,,Katakan,Silver,5
+,Monster,"How to kill a kayran? Simple! Take your best sword… then sell it, and hire a witcher.","Deploy: Consume a Unit from your Hand, then Boost self by an additional 8.",Melee,Ranged,Siege,Kayran,Gold,8
+,Northern Realms,"If I'm to die today, I wish to look smashing for the occasion.","Deploy: Spawn Quen Sign, Epidemic or Thunderbolt Potion.",Melee,Ranged,Siege,Keira Metz,Gold,5
+,Skellige,No one can replace Bran. Though they're sure to try.,"Spawn King Bran
+Deploy: Discard up to 3 cards from your Deck and Strengthen all Units among them by 1. Then shuffle your deck.",Event,,,King Bran,Leader,4
+,Neutral,I might just discover I look great without ears… or hands. Apparently the King of Beggars accepts both as partial payment.,"Deploy, Brave: Strengthen self enough to tie the Round or to a maximum of 15 base Power.",Ranged,,,King of Beggars,Silver,5
+,Neutral,A sight more horrid you've never seen… The poor soul lay shredded as the beast lapped up its blood from the ground all around.,Damage all Units on a row by 3.,Melee,Ranged,Siege,Lacerate,Bronze,
+,Neutral,Now that's the kind of negotiating I understand.,Deploy: Play Eskel and Vesemir from your Deck.,Melee,,,Lambert,Silver,5
+,Nilfgaard,"He would just sit there and stare at me, not saying a word. His eyes, they were… fish-like, somehow. No brows, no lashes… Just these balls of water, with a black stone sunk in each. He would devour me with those eyes in total silence. That frightened me more than the beatings.",Deploy: Reveal a Unit in your Hand (can be Gold) and Damage an Enemy by its base Power.,Melee,Ranged,Siege,Leo Bonhart,Gold,6
+,Nilfgaard,Witchers never die in their beds.,"Deploy: If Spying, set own base Power to 1.
+Deploy: Banish 2 Units to each side of this Unit and Boost this Unit by their Power.",Melee,Ranged,Siege,Letho of Gulet,Gold,7
+,Skellige,Escape them? In the waters of Skellige? Good luck.,"Every turn, at the start of your turn, Damage the Unit to the right by 1, then Strengthen self by 2.",Melee,Ranged,Siege,Light Longship,Bronze,5
+,Northern Realms,I name thee Dea and embrace thee as my daughter.,"Deploy: Boost all Botchlings in your Hand, Deck and Graveyard by 5.
+Deathwish: Play a Botchling from your Deck.",Ranged,,,Lubberkin,Silver,5
+,Skellige,WAAAAAAAAAAGH!!!!,Deploy: Discard a Bronze Unit from your Deck and Damage a Unit by the Discarded Unit's base Power.,Melee,Ranged,Siege,Madman Lugos,Gold,7
+,Scoia'tael,"I'm telling ye, we're born fer battle – we slash straight at their knees!",Deploy: Gain Resilience.,Melee,,,Mahakam Defender,Bronze,5
+,Scoia'tael,Only one punishment for disturbin' the peace in Mahakam: a hammer to the heid.,"Deploy: Boost an Ally by 3. If it's a Dwarf, Boost by 4 instead.",Melee,,,Mahakam Guard,Bronze,5
+,Scoia'tael,"I hate you, dh'oine. You are all the same.","Every turn, at the start of your turn, move a random Unit on another row on this side to this row.
+Deploy: Gain 3 Armor.",Melee,Ranged,Siege,Malena,Silver,4
+,Nilfgaard,This model specializes in slinging corpses and ripe dung.,"Whenever a card is Revealed, Damage a random Enemy by 2.",Siege,,,Mangonel,Bronze,6
+,Monster,"We know little about what manticores look like: though many have seen them, very few have lived to tell their tale.","Deploy, Brave: Strengthen self by 4.",Siege,,,Manticore,Silver,9
+,Neutral,Kills quicker than you can recite the Emperor of Nilfgaard's title in full.,Damage 5 adjacent Units by 4.,Event,,,Manticore Venom,Silver,
+,Neutral,"We are but pawns in a game played by old men, sent to fight and die on their senile whims…",Boost one of the Lowest Bronze or Silver Units in your Deck by 2 and play it.,Event,,,Marching Orders,Silver,
+,Neutral,"Eat enough of them, and the world will never be the same…",Spawn Spores or Mutagen.,Event,,,Mardroeme,Bronze,
+,Northern Realms,I care only about what's good for Aretuza and my pupils.,Deploy: Reset a Unit and toggle its Lock.,Siege,,,Margarita Laux–Antille,Silver,4
+,Nilfgaard,I'll take an attentive reconnaissance unit over a fine brigade any day.,Deploy: Destroy all Spying Enemies.,Melee,Ranged,Siege,Menno Coehoorn,Gold,8
+,Neutral,"The sky dimmed of a sudden, and clouds amassed over the town. It grew fiendishly dark, and a cold gust swept in. Oh my, gasped Yennefer. We're about to make quite the mess, I think.",Damage all Units on a row by half their Power (rounding up and ignoring Armor).,Melee,Ranged,Siege,Merigold's Hailstorm,Silver,
+,Scoia'tael,"With each arrow I loose, I think of my da. He'd be proud. I think.","Deploy: If neither player has passed, return the Highest Enemy to your opponent's Hand, then return the Highest Ally to your Hand.",Melee,Ranged,Siege,Milva,Gold,9
+,Monster,"Damn, the filth's o'errun us… We need a witcher or there's no livin' 'ere!",Spawn a Bronze Necrophage or Insectoid Unit and Boost it by 2.,Event,,,Monster Nest,Silver,
+,Scoia'tael,Lady Eithné's daughter had inherited her sublime beauty and her wild hatred for all that is human.,"Ambush: When an Enemy appears, turn Morenn over and Damage that Enemy by 5 before its Deploy ability resolves.",Melee,Ranged,Siege,Morenn,Silver,6
+,Skellige,The vilest man Skellige's ever known.,"Whenever this Unit is Discarded or Destroyed, Resurrect it and Weaken it by half its Power (rounding up).",Melee,,,Morkvarg,Silver,9
+,Nilfgaard,The summer sun reflected in the quiet waters of the Alba – that's Nilfgaard to me.,"Spawn Morvran Voorhis
+Deploy: Reveal up to 3 cards from either player's Hand (can be Golds).",Event,,,Morvran Voorhis,Leader,6
+,Neutral,Never get between a mother dragon and her young.,"Deploy: Damage Units by 2, 2 and then 1.",Ranged,,,Myrgtabrakke,Silver,5
+,Scoia'tael,"You exact from the earth a blood ransom, ripping out its riches by force. To us it bloomed, bore fruit and gave freely, for it loved us as we loved it.",Play a Bronze or Silver Special card from your Deck. Shuffle the others back.,Event,,,Nature's Gift,Silver,
+,Nilfgaard,They call us Death's Heads. Care to find out why?,"Deploy: Damage a Spying Unit by 5. If it was Destroyed, Strengthen self by 4.",Ranged,,,Nauzicaa Brigade,Bronze,5
+,Nilfgaard,The Emperor will teach the North discipline.,Deploy: Clear Weather from the row on your side and Boost 1 Ally or Revealed Unit in your Hand by 3.,Melee,Ranged,Siege,Nauzicaa Standard Bearer,Bronze,4
+,Neutral,We have ways of making you talk… alive or dead.,Banish a Unit from either Graveyard and Boost an Ally by its Power.,Event,,,Necromancy,Silver,
+,Monster,"These little guys are almost cute, if you ignore the whole vicious killer aspect.","Whenever an Ally Consumes a card while this Unit is in your Hand, Deck or on your side of the Board, Boost self by 1.
+Deathwish: Play a Nekker from your Deck.",Melee,,,Nekker,Bronze,3
+,Monster,"Take heed, gents, there's nekkers under this here bridge.",Deploy: Choose a Bronze Ally and create 2 base copies of it on the bottom of your Deck.,Melee,,,Nekker Warrior,Bronze,5
+,Northern Realms,Few know more about healing than Nenneke.,Deploy: Shuffle up to 3 cards from your Graveyard into your Deck.,Siege,,,Nenneke,Silver,8
+,Nilfgaard,"Sons of noble houses, born in the City of the Golden Towers, form the elite backbone of the Imperial Army.","Deploy: Gain 2 Armor.
+Deploy: Reveal a random card from your Hand (can be Gold).",Melee,,,Nilfgaardian Knight,Bronze,10
+,Monster,"Each Wild Hunt warrior has gone through a rigorous selection process, but Eredin's personal cavalcade includes only the most brutal and most ferocious of the Aen Elle.",Frost Damage on your opponent's side is increased to 3.,Melee,Ranged,Siege,Nithral,Silver,7
+,Neutral,"The Master of Quartz Mountain, the Destroyer, Trajan's Slayer. In his free time, he likes long walks and candlelight dinners.","After 4 turns, at the start of your turn, Damage all Enemies by 1, return this Unit to your Hand and Transform it into Exhausted Ocvist.",Siege,,,Ocvist,Silver,6
+,Northern Realms,Drinkin' without Odrin is like rowin' without a paddle.,"Every turn, at the start of your turn, move this Unit to a random row and Boost all Units on it by 1.",Melee,Ranged,Siege,Odrin,Silver,5
+,Monster,Do not disturb.,"If at the start of your turn there are 3 or more Units on the opposite row, wake up.
+Deploy: Boost Units adjacent to this Unit by 1.",Melee,Ranged,Siege,Old Speartip: Asleep,Gold,5
+,Neutral,At least you now know I don't easily lose my head.,"When this Unit is Discarded or Destroyed, Weaken it by half (rounding up). At the start of Rounds 2 and 3, Resurrect this Unit if it is in the Graveyard.",Melee,,,Olgierd,Silver,9
+,Neutral,"As time and space collapse before us, they expand behind us. In that way one moves forward through both.",Deploy: Choose a Bronze Unit in your Hand and create a base copy of it in both players' Hands.,Ranged,,,Operator,Silver,7
+,Neutral,"While deadly for men, Potions are merely toxic for witchers. Yet even they must measure every drop, lest they exceed the maximum dosage... and pay the maximum price.",Boost up to 6 random Allies by 2.,Event,,,Overdose,Bronze,
+,Northern Realms,"They said the queen was prone to outbursts, but I did not expect that…","Deploy: If neither player has passed, shuffle the Lowest Ally into your Deck, then shuffle the Lowest Enemy into your opponent's Deck. Does not affect Pavetta.",Ranged,,,Pavetta,Silver,7
+,Nilfgaard,"These are not the hands of an Excellency, but of a farmer. So we speak peasant to peasant.","Deploy: Reset a Unit. If it's an Ally, Strengthen it by 3. If it's an Enemy, Weaken it by 3.",Melee,,,Peter Saar Gwynleve,Silver,4
+,Northern Realms,"Soon the power of kings will wither, and the Lodge shall seize its rightful place.","Deploy: Damage an Enemy by 5, then Damage random Enemies by 4, 3, 2 and 1. The same Enemy cannot be Damaged twice in a row.",Melee,Ranged,Siege,Philippa Eilhart,Gold,1
+,Skellige,"Modron Freya, the Great Mother, is the goddess of love, beauty and bounty.",Deploy: Resurrect a Bronze Unit.,Siege,,,Priestess of Freya,Bronze,1
+,Northern Realms,He wears armor made of gold. Of course he's a jerk.,"Every 2 turns, at the start of your turn, Boost this Unit by the number of Machine Allies.
+Crewmen 1.
+Deploy: Gain 2 Armor.",Melee,Ranged,Siege,Prince Stennis,Silver,7
+,Northern Realms,Picture Dandelion in a dress and you've got the general idea.,"Every turn, at the end of your turn, Boost a random Ally (but never self) by 3. Ability discontinues after the Unit Boosts Allies 4 times without leaving the Board.",Melee,Ranged,Siege,Priscilla,Gold,4
+,Neutral,Mooooo.,"Retaliation: Spawn a Chort on the row.
+Deathwish: Spawn a Chort on the row.",Melee,Ranged,Siege,Prize-Winning Cow,Silver,2
+,Skellige,The queen is guarded by the hardiest and fiercest shieldmaidens Skellige's ever known.,Deploy: Resurrect all your Queensguards.,Melee,,,Queensguard,Bronze,4
+,Neutral,"The witcher raised a hand and quickly traced a path with it in the air. The crowd's rumble rose, the stones flew thicker. Yet the Sign curved their course, pushing them aside. They simply passed their target, protected by a shield unseen.",Choose a Unit in your Hand. Give all copies of it in your Hand and Deck a Shield and Boost them by 2. Units which already have a Shield cannot be chosen and aren't affected.,Event,,,Quen Sign,Bronze,
+,Northern Realms,A king should be merciless towards his enemies and generous to his friends.,"Spawn Radovid
+Deploy: Toggle 2 Units' Lock. If Enemies, Damage them by 4 as well.",Event,,,Radovid,Leader,5
+,Neutral,"In the Final Age, Hemdall will come forth to face the evil issuing from the land of Morhogg – the legions of wraiths, demons and specters of Chaos.","Apply Ragh Nar Roog to all rows on your opponent's side.
+Ragh Nar Roog: Every turn, at the start of your turn, Damage one of the Highest Units on the row by 2.",Melee,Ranged,Siege,Ragh Nar Roog,Gold,
+,Skellige,In their ballads skalds claim you cannot tell a berserker changed in the heat of battle from a true–born bear.,Retaliation: Transform into a Raging Bear.,Melee,Ranged,Siege,Raging Berserker,Bronze,6
+,Nilfgaard,"When Cintra fell, Attre followed, leaving its defenders a choice: accept the Nilfgaardian leash or die.",Deploy: Play a Bronze or Silver Disloyal Unit from your Deck. Shuffle the others back.,Melee,Ranged,Siege,Rainfarn,Gold,4
+,Northern Realms,"See this here tattoo? 'At's me, hackin' at a dragon. A DRAGON, m'lady.","Deploy or Bond: Boost all Reaver Hunters in your Hand, Deck and on your side of the Board by 1.
+When a Reaver Hunter Trio is completed, Damage the Highest Enemy by half its Power (rounding up and ignoring Armor).",Melee,Ranged,Siege,Reaver Hunter,Bronze,4
+,Northern Realms,"Haven't had much luck with monsters of late, so we enlisted.",Deploy: Choose a different Bronze Ally. Play a copy of it from your Deck.,Ranged,,,Reaver Scout,Bronze,1
+,Northern Realms,"I'll die for Redania, I'll kill for Redania… I'll even eat worms for Redania!","Whenever this Unit's Armor reaches 0, Boost self by 5.
+Deploy: Gain 4 Armor.",Melee,Ranged,Siege,Redanian Elite,Bronze,6
+,Northern Realms,For glory! For Radovid!,"Every turn, at the start of your turn, if this Unit has no Armor, Boost it by 2 and add 2 Armor to it.",Melee,Ranged,Siege,Redanian Knight,Bronze,6
+,Northern Realms,Not wealth or fame but intentions true –– that's what makes a hero of you!,"If this Unit has Armor at the start of your turn, Boost Units adjacent to it by 1.
+Deploy: Gain 2 Armor.",Melee,Ranged,Siege,Redanian Knight-Elect,Bronze,5
+,Neutral,"Men, the polite ones, at least, would call me a monster. A blood–drinking freak.","After 2 turns, at the start of your turn, Boost self by 7 if you are winning the Round.",Melee,Ranged,Siege,Regis,Gold,8
+,Neutral,"He becomes invisible at will. His glance hypnotizes into a deep sleep. He then drinks his fill, turns into a bat and flies off. Altogether uncouth.","Deploy: Look at 3 random Bronze Units from your opponent's Deck. Consume 1, Boost self by base Power of the consumed Unit,  then shuffle the others back.",Melee,Ranged,Siege,Regis: Higher Vampire,Gold,6
+,Northern Realms,"Never manages to hit the same place twice, which, upon further reflection, might constitute a real problem.","Deploy: Damage an Enemy by 2.
+Fresh Crew: Repeat the Deploy ability.",Melee,Ranged,Siege,Reinforced Ballista,Bronze,6
+,Northern Realms,The latest rage in assaults on walled cities.,"Deploy: Add 2 Armor to Units adjacent to this Unit.
+Fresh Crew: Boost self by 3.",Melee,Ranged,Siege,Reinforced Siege Tower,Bronze,6
+,Northern Realms,Feel that? The earth trembles each time Big Bertha looses a stone.,"Every turn, at the start of your turn, Damage a random Enemy by 1.",Siege,,,Reinforced Trebuchet,Bronze,6
+,Northern Realms,Sound the retreat! Regroup! And wait for reinforcements!,Play a Bronze or Silver Unit from your Deck. Shuffle the others back.,Event,,,Reinforcement,Silver,
+,Neutral,"Medicus curat, magicae sanat.",Resurrect a Gold Unit from your Graveyard.,Event,,,Renew,Gold,
+,Skellige,"Those cursed sorceresses are stealing our thunder! Whyever should folk choose a procedure taking several hours, when some perfumed tart can solve their problem with a wave of her hand?","Return a Unit from your Graveyard to your Hand, then Discard a card from your Hand.",Event,,,Restore,Silver,
+,Neutral,"Geralt, we gotta have a man–to–horse talk. No offense, but your riding skills? They leave a bit to be desired, buddy.","Whenever you play a Gold Unit from your Hand, play Roach from your Deck on a random row before that Unit's Deploy ability resolves.",Melee,Ranged,Siege,Roach,Silver,4
+,Nilfgaard,Let historians debate whether spreading plague in a besieged city is ethical. We just care if it's effective.,Deploy: Spawn a Cow Carcass on your opponent's side.,Siege,,,Rot Tosser,Bronze,6
+,Neutral,"We, Foltest, by divine right King of Temeria, Prince of Sodden, Senior Protector of Brugge, etcetera, etcetera, do hereby decree the following…",Play a Gold card from your Deck. Shuffle the others back.,Event,,,Royal Decree,Gold,
+,Northern Realms,The Daughter of the Kaedweni Wilderness.,Deathwish: Set all Units on the row to the Power of the Lowest Unit on the row.,Melee,Ranged,Siege,Sabrina Glevissig,Silver,3
+,Scoia'tael,"I inherited my father's ability to assume other forms - well, one other form, in my case.",Deploy: Boost self by 1 for each Dwarf Ally (including Golds). Damage an Enemy by the number of Elf Allies (including Golds).,Melee,Ranged,Siege,Saesenthessis,Gold,9
+,Neutral,Little Sarah wants to play!,"Deploy: Shuffle a card from your Hand (can be Gold) back into your Deck, then draw the top different card of the same color from your Deck.",Siege,,,Sarah,Silver,8
+,Scoia'tael,I care not for kings and their titles. In the east lives one who truly deserves a crown.,Orders: Play this Unit from your Deck on a random row.,Melee,Ranged,Siege,Saskia,Gold,7
+,Skellige,"Tame? Och, lad, Skelligers might train bears, but that don't at all mean they tame 'em…","After an Enemy is played from any Hand and its Deploy ability resolves, Damage it by 1.",Melee,,,Savage Bear,Bronze,7
+,Scoia'tael,Time to look death in the face.,Deploy: You may Transform a card from your Hand (can be Gold) into Scorch.,Melee,Ranged,Siege,Schirrú,Gold,10
+,Neutral,"Geralt took one step back. He'd seen men hit by Scorch before. Or more accurately, seen what remained of them afterwards.",Destroy all the Highest Units.,Event,,,Scorch,Silver,
+,Nilfgaard,We do what we must. I am not ashamed of that.,Deploy: Set the Power of a Revealed Unit in your opponent's Hand to 1.,Melee,,,Serrit,Silver,9
+,Monster,"Fear not the shadows, but the light.",Deploy: Trigger the Deathwish of 3 Units to the right.,Melee,Ranged,Siege,Shadow,Silver,7
+,Northern Realms,I'm a medic. I tend to know what I'm doing when I prescribe something.,Deploy: Resurrect a Unit and add 4 Armor to it.,Melee,Ranged,Siege,Shani,Gold,4
+,Scoia'tael,"I was there, on the front lines! Right where the fightin' was the thickest!",Deploy: Move all Units on the row to random rows on the same side and Boost self by 1 for each.,Melee,Ranged,Siege,Sheldon Skaggs,Silver,8
+,Skellige,Fall on your knees and beg Modron Freya for forgiveness.,Deploy: Resurrect a Unit.,Siege,,,Sigrdrifa,Silver,3
+,Neutral,This ain't no normal storm. This here's the wrath of the gods.,"Apply Skellige Storm to a row on your opponent's side.
+Skellige Storm: Every turn, at the start of your turn, Damage the leftmost units on the row by 2, 2 and 1, respectively.",Melee,Ranged,Siege,Skellige Storm,Silver,
+,Skellige,Strike his name from the Saga of Elders! No one dare grant him shelter or sustenance!,"Veteran 1.
+After 2 turns, at the end of your turn, convert this Unit's current Power into base Power.",Siege,,,Skjall,Silver,6
+,Nilfgaard,The North has nothing with which it could surprise us.,"Whenever either player Reveals a card, Boost self by 1 while in your Hand, Deck or on your side of the Board.",Melee,Ranged,Siege,Spotter,Bronze,4
+,Neutral,"The sorcerer Stammelford moved a mountain that obscured the view from his tower. Rumor has it he could only do so for he'd fettered a d'ao, an earth elemental.",Damage up to 6 random Enemies by 2.,Event,,,Stammelford's Tremors,Bronze,
+,Nilfgaard,My mark scars the face of our future empress. That is my proudest achievement.,Deploy: Choose any card from your Deck and place it on top. Then shuffle the rest of your Deck.,Melee,Ranged,Siege,Stefan Skellen,Gold,10
+,Monster,Why fight? There are much better ways to work off excess energy…,"If played on your opponent's side, then after 2 turns, at the end of your turn, move the Highest other Unit on its row to your side.",Melee,Ranged,Siege,Succubus,Gold,5
+,Neutral,"There exist a great many realities outside our own… With the right knowledge, one can contact them and summon beings beyond human fathoming.",Spawn a base copy of the last Enemy your opponent played from their Hand.,Event,,,Summoning Circle,Silver,
+,Skellige,The emperor also thought him an accidental king. At first.,"Veteran 1.
+Deploy: Draw the top card from your Deck, then Discard a card from your Hand (can be Gold).",Siege,,,Svanrige,Silver,6
+,Neutral,"Symbolizing spring and rejuvenation, the swallow lent its name to this potion that accelerates the rate at which wounds scab over and heal.",Boost a Unit by 8.,Event,,,Swallow Potion,Bronze,
+,Nilfgaard,"And hands off the girl! Whatever we may be, we're not savages.",Deploy: Choose an Enemy or a Revealed opposing Unit and move all copies of it from your opponent's Deck to their Graveyard.,Melee,,,Sweers,Silver,7
+,Northern Realms,The Lodge lacks humility. Our lust for power may yet be our undoing.,"Deploy: You may play a Bronze Special card from your Hand. If you do, draw the top card from your Deck.",Ranged,,,Síle de Tansarville,Silver,6
+,Northern Realms,"Temeria! Temeria! Gods shed all grace on thee! And smite thy foes with horrid woes, for all eternity!",Deploy: Play all Temerian Infantrymen from your Deck on the row.,Melee,Ranged,Siege,Temerian Infantryman,Bronze,3
+,Northern Realms,Piss off! We aren't all philanderers. Some of us have depth…,Deploy: Draw the top 2 cards from your Deck. Keep 1 and shuffle the other back.,Melee,Ranged,Siege,Thaler,Silver,11
+,Nilfgaard,Stone fists to stop intruders armed with swords. Ironclad logic to stop those armed with lies.,Deathwish: Create 2 Lesser Guardians on the top of your opponent's Deck.,Melee,,,The Guardian,Silver,10
+,Neutral,"A djinn, good sirs, fulfills but three wishes. Thus freed, it flees to dimensions unknown.",Draw your top 2 Bronze or Silver cards. Play 1 and shuffle the other back.,Event,,,The Last Wish,Silver,
+,Neutral,"The witcher's face changed… his mien turning inhuman, horrifying.",Boost 3 adjacent Units by 4.,Event,,,Thunderbolt Potion,Bronze,
+,Nilfgaard,"Tibor's zeal was legendary. It was said when the emperor passed, he'd not so much bow as somersault.","Deploy: If neither player has passed, Boost self by 15, then your opponent draws the top Bronze card from their Deck and Reveals it.",Melee,Ranged,Siege,Tibor Eggebracht,Gold,8
+,Neutral,Even the rain in this land smells vile.,"Apply Rain to a row on your opponent's side.
+Rain: Every turn, at the start of your turn, Damage up to 5 of the Lowest Units on the row by 1.",Melee,Ranged,Siege,Torrential Rain,Bronze,
+,Scoia'tael,"I'd gladly kill you from up close, stare in your eyes… But you reek, human.","Ambush: When your opponent passes, turn this Unit over and Boost 2 Units on each side by 2.",Melee,Ranged,Siege,Toruviel,Silver,6
+,Nilfgaard,"Many believe the empire's power rests upon the shoulders of its disciplined army and dutiful mages. In truth, the Nilfgaardian floren rules the world.",Play the bottom card from your opponent's Deck.,Event,,,Treason,Silver,
+,Northern Realms,"Castle won't batter itself down, now will it? Get them trebuchets rollin'!","Deploy: Damage 3 adjacent Enemies by 1.
+Fresh Crew: Increase the Damage dealt by 1.",Melee,Ranged,Siege,Trebuchet,Bronze,3
+,Northern Realms,"Soldiers loyal to the old baron of Tridam left the city with Falibor, thus becoming renegades wanted by the law.",Deploy: Gain 3 Armor.,Melee,,,Tridam Infantryman,Bronze,8
+,Neutral,I can take care of myself. Trust me.,Deploy: Damage a Unit by 5.,Melee,Ranged,Siege,Triss Merigold,Gold,7
+,Neutral,"Cap'n… our arrows, they've… they've got wings!","Every turn, at the start of your turn, Boost all other Lowest Allies by 1.",Melee,Ranged,Siege,Triss: Butterfly Spell,Gold,5
+,Northern Realms,Join me King Ravodid army. Order got – guard boatses.,"Counts as part of any Northern Realms Trio on the row.
+Deploy: Gain 5 Armor.",Melee,Ranged,Siege,Trollololo,Silver,8
+,Skellige,The gods have spoken: a sacrifice is required.,Deploy: Draw the top 2 cards from your Deck. Keep one and Discard the other.,Melee,Ranged,Siege,Udalryk,Silver,12
+,Monster,"No one, not even among the higher vampires, knows exactly how old the Unseen Elder is. They only know they should never, under any circumstances, defy his will.","Spawn Unseen Elder.
+Deploy: Consume 3 Allies, but Strengthen instead of Boosting.",Event,,,Unseen Elder,Leader,5
+,Skellige,Blood for Svalblod! Skulls for his throne!,"Every turn, at the end of your turn, Damage by 2 every Damaged Enemy with 2 Power or less.",Melee,Ranged,Siege,Vabjorn,Gold,6
+,Nilfgaard,"For a fire mage, he's not very… flamboyant.","Deploy: Spawn Biting Frost, Clear Skies or Stammelford's Tremors.",Siege,,,Vanhemar,Silver,3
+,Nilfgaard,There's never been a problem a well–planned assassination couldn't solve.,"Deploy: Reveal up to 2 cards from your Hand (can be Golds). For each, Reveal 1 random card from your opponent's Hand (can be Gold).",Melee,Ranged,Siege,Vattier de Rideaux,Gold,8
+,Northern Realms,A patriot… and a real pain in the rear.,"Deploy: Damage an Enemy by 3. If it was Destroyed, Spawn a Blue Stripes Commando on a random row and repeat the Deploy ability (one time only).",Melee,Ranged,Siege,Vernon Roche,Gold,6
+,Northern Realms,Better to live one day as a king than a whole life as a beggar.,"Whenever you complete a Northern Realms Trio, play this Unit from your Deck.",Melee,,,Ves,Silver,7
+,Neutral,"If you're to be hanged, ask for water. Anything can happen before they fetch it.",Deploy: Play Eskel and Lambert from your Deck.,Melee,,,Vesemir,Silver,7
+,Nilfgaard,The world has known as many plagues as it has wars. Yet both war and plague always take men by surprise.,Deploy: Resurrect a Bronze Unit from your opponent's Graveyard.,Ranged,,,Vicovaro Medic,Bronze,1
+,Nilfgaard,"Mages in Nilfgaard are disposable. If one disappoints the Emperor, a dozen others await to provide what he requires.",Deploy: Trigger the ability of a Spying Enemy Ambassador or Emissary.,Siege,,,Vicovaro Novice,Bronze,1
+,Nilfgaard,We are all pawns on his board. Playing a game whose rules we do not know.,"Deploy: Destroy an Ally or (only possible if your opponent has not passed) an Enemy. If you destroy an Ally, play the top card from your Deck. If you destroy an Enemy, your opponent draws the top Bronze card from their Deck and Reveals it.",Melee,Ranged,Siege,Vilgefortz,Gold,8
+,Neutral,Also calls himself Borkh Three Jackdaws… he's not the best at names.,"After 3 turns, at the start of your turn, Destroy all the Highest Units on the Board.",Melee,Ranged,Siege,Villentretenmerth,Gold,8
+,Monster,"They sat still on their horses, seemingly relaxed. He saw their weapons – short spears with wide tips. Swords with oddly forged guards. Battle axes. Toothed gisarmes.","Deploy: Consume the Unit to the right.
+Every 2 turns, at the start of your turn, Consume the Unit to the right.",Melee,Ranged,Siege,Vran Warrior,Bronze,5
+,Scoia'tael,Vrihedd? What's that mean? Trouble.,Deploy: Clear Weather from the row on your side and move a Unit to this row on its side.,Melee,Ranged,Siege,Vrihedd Brigade,Bronze,6
+,Scoia'tael,"Most terrible things I've witnessed? The Catriona plague, the razing of Vengerberg and the charge of the Vrihedd Dragoons.","Every turn, at the start of your turn, Boost a random Loyal Unit in your Hand by 1.",Siege,,,Vrihedd Dragoon,Bronze,6
+,Scoia'tael,"Hatred burns brighter than any fire, and cuts deeper than any blade.",Deploy: Mulligan a card.,Siege,,,Vrihedd Officer,Bronze,7
+,Scoia'tael,"No matter what you may have heard, elves don't take human scalps. Too much lice.","Ambush: After 2 turns, at the start of your turn, turn this Unit over.",Melee,Ranged,Siege,Vrihedd Sappers,Bronze,8
+,Scoia'tael,"Temerians, Redanians, all the same. Better off dead.","Whenever you Mulligan a card, Boost self by 1 while in your Hand, Deck or on your side of the Board.",Melee,Ranged,Siege,Vrihedd Vanguard,Bronze,4
+,Skellige,They say Hemdall's heart swells whenever the longships sail out on a raid.,"Whenever you Discard a Unit, Damage a random Enemy by 2.",Siege,,,War Longship,Bronze,6
+,Monster,"Seen a lot o' ugly critters in me life – morays, lampreys, blobfish… But never nothin' like this!","Deploy: Spawn Torrential Rain, Clear Skies or Lacerate.",Siege,,,Water Hag,Silver,3
+,Neutral,"Behold Tedd Deireadh, the Final Age. The world destroyed by the White Frost.","Apply Frost to a row on your opponent's side and the row above it.
+Frost: Every turn, at the start of your turn, Damage one of the Lowest Units on the row by 2.",Melee,Ranged,Event,White Frost,Silver,
+,Skellige,"Merely mention this name to a Nilfgaardian, and they'll feel a spreading warmth in their knickers…","Every turn, at the start of your turn, Strengthen the Unit to the left by 1 and Damage the Unit to the right by 1.",Melee,Ranged,Siege,Wild Boar of the Sea,Gold,6
+,Monster,"Cry 'Havoc!', and let slip the dogs of war.",Deploy: Play a Biting Frost card from your Deck.,Melee,,,Wild Hunt Hound,Bronze,4
+,Monster,"For hundreds of years, Avallac'h tried to recreate the Elder Blood gene through back breeding - yet the elven children thus fostered were but dim sparks compared to Lara's flame.",Deploy: Choose a different Bronze Wild Hunt Ally. Play a copy of it from your Deck.,Siege,,,Wild Hunt Navigator,Bronze,3
+,Monster,"First the buffalo horns atop their helms penetrate one's view, then the crest betwixt them, and finally the skull–like face exposed beneath their visors.","At the end of the Round, keep this Unit on the Board if you lost.
+If this Unit is part of a Trio at the end of your turn, Boost it by 1.",Melee,Ranged,Siege,Wild Hunt Rider,Bronze,6
+,Monster,The White Frost is coming.,"Deploy: Damage an Enemy by 3. If it was Destroyed, Boost self by 2.",Melee,,,Wild Hunt Warrior,Bronze,5
+,Monster,We never hunt in these woods. Not even if it means the whole village'll starve.,Deploy: Spawn 3 Rabid Wolves and apply Fog to the opposite row.,Melee,Ranged,Siege,Woodland Spirit,Gold,5
+,Monster,Imagine a cross between a winged snake and a nightmare. Wyverns are worse.,Deploy: Damage an Enemy by 3.,Siege,,,Wyvern,Bronze,6
+,Nilfgaard,"Astrology, hydromancy, haruspicy, ceromancy. Ovomancy, spodomancy, metroscopy, brontoscopy…",Deploy: Look at the top 3 cards in your opponent's Deck. You may move 1 to the bottom of their Deck.,Melee,Ranged,Siege,Xarthisius,Gold,10
+,Scoia'tael,We are the drops of rain that together make a ferocious storm.,Deploy: Draw the top Unit and top Special card from your Deck. Keep 1 and shuffle the other back.,Melee,Ranged,Siege,Yaevinn,Silver,12
+,Scoia'tael,"Ever hear o' the dragon Ocvist? From Quartz Mountain? Well, Yarpen Zigrin and his band o' dwarves did 'im in.","Whenever a Dwarf Ally (including Golds) is played, Boost self by 1.
+Deploy: Gain Resilience.",Siege,,,Yarpen Zigrin,Silver,7
+,Neutral,"Magic is Chaos, Art and Science. It is a curse, a blessing and a progression.",Deploy: Spawn a Unicorn or a Chironex.,Melee,Ranged,Siege,Yennefer,Gold,6
+,Neutral,A good sorceress must know when to conjure ice… and when to conjure fire.,"Every turn, at the start of your turn, Damage all the Highest Enemies by 1.",Melee,Ranged,Siege,Yennefer: The Conjurer,Gold,4
+,Scoia'tael,Drinkin' alone's like crappin' with company.,"Deploy: Move 3 Units to this row on their side. If they are Allies, Strengthen them by 2.",Melee,Ranged,Siege,Zoltan Chivay,Gold,8
+,Neutral,"Apologies. My exotic pet's a clever birdie, but a wee bit lewd. Paid ten thalers for the beaute.",Deploy: Spawn Field Marshal Duda Companion or Field Marshal Duda Agitator.,Melee,Ranged,Siege,Zoltan: Animal Tamer,Gold,7
