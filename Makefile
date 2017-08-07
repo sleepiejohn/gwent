@@ -1,8 +1,10 @@
-setup:
-	@echo "Creating data structure and importing dependencies..."
+create_dirs:
 	mkdir -p data/exportable
 	mkdir -p data/raw
 	mkdir -p data/processed
+
+setup: create_dirs
+	@echo "Creating data structure and importing dependencies..."
 	pip install -r requirements.txt
 
 fetch:
