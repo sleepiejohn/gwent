@@ -8,5 +8,6 @@ def main():
     with open('./data/raw/cards.csv', 'w', newline='', encoding='utf-8') as f:
         f.write(r.text)
 
+
 if __name__ == '__main__':
     main()
