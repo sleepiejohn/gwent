@@ -25,7 +25,7 @@ will be saved and used to train and/or test our models.
 or
  - Anaconda
 
- Create an virtual env and install the dependencies using `pip install -r requirements.txt`
+ Create an virtual env and start the project using `make install`
 
 ### Notebooks
 
