@@ -5,9 +5,8 @@ CSV_RELEASE_URL = 'https://github.com/joaoevangelista/gwent/releases/download/in
 
 def main():
     r = requests.get(CSV_RELEASE_URL, stream=True)
-    with open('./data/raw/cards.csv', 'w') as f:
-        r.raw.decode_content = True
-        f.write(str(r.text.encode('utf-8')))
+    with open('./data/raw/cards.csv', 'w', newline='', encoding='utf-8') as f:
+        f.write(r.text)
 
 if __name__ == '__main__':
     main()
