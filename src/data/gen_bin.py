@@ -60,7 +60,7 @@ def start_writer(file):
 
 def main():
     links = get_card_links()
-    with open('./data/exportable/cards.csv', 'w') as f:
+    with open('./data/exportable/cards.csv', 'w', newline='', encoding='utf-8') as f:
         writer = start_writer(f)
         for link_obj in tqdm(links):
             card = get_card(link_obj)
